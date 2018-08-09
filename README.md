@@ -1,2 +1,3 @@
 # Counting-Calories
-Counting Calories is a program built in Python 2.7. Its purpose is to recommend the calorie intake, based on their age and gender. The user can then compare their calorie intake to the recommended one.
+Counting Calories is a program built in Python 2.7. Its purpose is to recommend the calorie intake, based on a persons age,gender and lifestyle. The user can then compare their own calorie intake to the recommended one. The first part of the program consists of entering personal information and meal choices (Breakfast,Lunch,Dinner,Snacks and Desserts) from our set menus. Part 2 of the program gets you to fill in our questionairre, which determines your lifestyle (Sedentary, Moderately Active and Active). Then at the end of the program, your results are summarised showing your calorie intake, recommended calorie intake and the lifestyle you currently live.
+
