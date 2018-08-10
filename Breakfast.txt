@@ -1,0 +1,19 @@
+
+BREAKFAST SET MENU:
+
+Enter a letter from A-S:
+
+A)Plain Toast, Milk, 1 Chocolate Biscuit	
+B)Cereal with Milk, Toast with Butter 
+C)Plain Yoghurt, Apple Juice, 2 Apricots	
+D)Cereal with Milk, 2 Digestive Biscuits                                           
+E)2 Toasts with Peanut Butter, Coffee     
+F)Apple, Banana, Toast with Honey, Coffee     
+G)Plum, Orange, Peach, Blueberry Muffin, Pineapple Juice    
+H)Scrambled Eggs, Baked Beans, Strawberries, Tea with 1 Sugar     	
+I)Waffles, 1.5 Apples, Orange Juice
+J)Porridge, Banana, Plum, Peach, Blueberry Muffin, Milk
+K)Sausage, Baked Beans, Scrambled eggs, 4 Apricots 
+L)Oatmeal, Pancakes, Tropical Fruit Salad, Green Tea with Lemon and Honey
+S) Skip Breakfast
+

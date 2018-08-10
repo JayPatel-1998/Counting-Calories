@@ -1,0 +1,18 @@
+
+DINNER SET MENU 
+
+Enter a Letter from A-S:
+
+A)Vegetable Stir-Fry	
+B)Chicken Stir-Fry
+C)Meat Lasagne
+D)Itsu-Chicken + Noodle Soup
+E)Oven Baked Fish & Chips 
+F)Chicken Casserole  
+G)Double Cheeseburger
+H)Roasted Apple & Chedder Salad with Roasted Chicken + Gravy with Shredded root Vegetables
+I)Cod with Tomato Cream Sauce
+J)Chicken Katsu-Curry
+K)Spicy Salmon + Lentils
+L)Tuna avacado + quinoa salad
+S)Skip Dinner	

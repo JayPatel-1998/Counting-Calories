@@ -1,0 +1,21 @@
+
+LUNCH SET MENU
+
+Enter a Letter from A-S:
+
+A)Courgette Pea & Pesto Soup	
+B)Mexican Quinoa
+C)Meat Lasagne
+D)Jacket Potato
+E)Bacon Lettuce & Tomato Sandwich 
+F)Ceaser Turkey Wrap 
+G)Chicken Fajita Wrap
+H)Aspragus and Tuna Salad
+I)Ground Chicken & Boiled Mashed Sweet Potato
+J)Spaghetti and Meatballs
+K)Beef Stew & Dumplings
+L)Creamy Pasta with Asparagus & Peas
+S)Skip Lunch	
+
+
+
