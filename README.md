@@ -1,5 +1,5 @@
 # Counting-Calories
-The Counting Calories program aims to recommend an individuals daily calorie intake; based on their current diet,age,gender and lifestyle.  The Part 1 of the program involves entering personal information and set-meal choices (Breakfast,Lunch,Dinner,Snacks and Desserts). Part 2 involves filling in a questionairre, to determine your lifestyle (Sedentary, Moderately Active and Active). At the end of the program, your results are visually summarised showing your current calorie intake, recommended intake and the lifestyle you currently live.
+The Counting Calories program aims to recommend an individuals daily calorie intake; based on their current diet,age,gender and lifestyle.  Part 1 of the program involves entering personal information and set-meal choices (Breakfast,Lunch,Dinner,Snacks and Desserts). Part 2 involves filling in a questionairre, to determine your lifestyle (Sedentary, Moderately Active and Active). At the end of the program, your results are visually summarised showing your current calorie intake, recommended intake and the lifestyle you currently live.
   
 ## Getting Started
 
@@ -18,7 +18,7 @@ You will need to have Python 2.7 installed on your PC. If you don't, follow thes
   
 ### Running Tests
   1. Open the Python Shell and open a new file.
-  2. Type "print 'Hello World'" in the console.
-  3. Expect: Hello World to print.
+  2. Type `print'Hello World'` in the console.
+  3. Expect: `Hello World` to be displayed.
   
   
